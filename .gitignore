@@ -1,0 +1,5 @@
+/node_modules
+/dist
+.parcel-cache
+/Components/User.js
+/Components/UserClass.js
