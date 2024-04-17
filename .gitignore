@@ -1,5 +1,5 @@
 /node_modules
 /dist
 .parcel-cache
-/Components/User.js
-/Components/UserClass.js
+/src/Components/User.js
+/src/Components/UserClass.js
